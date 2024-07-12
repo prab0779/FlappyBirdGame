@@ -1,7 +1,9 @@
 How to Play
 
 Tap the Screen or Press the Space Bar to make the bird flap and stay in the air.
+
 Navigate through Pipes: Avoid colliding with the pipes to continue.
+
 Score Points: Earn points for each set of pipes you successfully navigate through.
 
 [# FlappyBirdGame](https://prab0779.github.io/FlappyBirdGame/)
